@@ -1,0 +1,116 @@
+
+/* ============Profile + my list CSS========*/
+.pBar{
+    background-color: white;
+   
+  }
+  
+  .Containers {
+    background-color: black;
+    min-height:100vh ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #740907;
+   
+  }
+  .Headers{
+  position:fixed;
+    top: 0;
+  }
+  .Informations {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    flex-direction: column;
+   
+  }
+  
+  
+  .ProfilePicture{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+  }
+  
+  .img{
+    border-radius: 50%;
+  
+  }
+  
+  .buttonList{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    border-radius:5%;
+    border: 0;
+   
+  
+  }
+  
+  .buttonList:hover{
+    opacity: 0.5;
+  }
+
+/*======================== MY LIST CSS ===========================*/
+
+.Back{
+  color:white;
+}
+.Mylist {
+    position: top;
+    background-color: white;
+  }
+  .Body {
+    /**display: auto; **/
+    justify-content: center;
+  }
+  
+  .App-header {
+    min-height: 10vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(7px + 3vmin);
+    color:red;
+    font-weight: bold;
+    position: top;
+    padding-top: 20px;
+    /*padding-bottom: 2px;*/
+  }
+  .App-headers h1 {
+    position: top;
+    text-align: center;
+  }
+  .List-container {
+    display:flex;
+    flex-direction: column;
+    /**column-gap: 10px;
+    row-gap: 10px; **/
+    justify-content: center;
+    /**align-content: space-between;**/
+    align-items: center;
+  }
+  .List-container >div {
+    /**flex-basis: 200px;**/
+    background-color: rgb(50, 49, 49);
+    filter: blur(0.6px);
+    padding: 18px;
+    margin: 2px;
+    border-radius: 25px;
+    width: 300px;
+    height: 180px;
+  }
+   
+  
+  /*======================== MY LIST CSS SLUT ===========================*/

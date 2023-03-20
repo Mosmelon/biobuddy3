@@ -1,0 +1,123 @@
+
+/*========================== hela bakgrunden ===========================*/
+/* hela sidan */
+.App {
+  background-color: #000000;
+  min-height: 100vh;
+}
+
+/*========================== headern ===========================*/
+/* titel */
+.App-header {
+  background-color: #000000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  font-size: calc(10px + 2vmin);
+  color: #970704;
+}
+
+/*========================== text ===========================*/
+/* "vanlig" text */
+p {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  padding-left: 8vh;
+}
+/* oanvänd */
+h1 {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  padding-left: 8vh;
+  font-size: 15px;
+  font-weight: normal;
+}
+/* recomend a movie */
+h2 {
+  color: #970704;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: left;
+}
+/* share recomendation */
+h3 {
+  color: white;
+  align-items: center;
+  justify-content: center;
+  padding-left: 10px;
+}
+
+/*========================== share funktionen ===========================*/
+/* share via facebook knappen */
+.shareFacebook{
+  margin: 8px;
+}
+
+/* share via email knappen */
+.shareEmail{
+  margin: 8px;
+}
+
+.share{
+  display: flex;
+  flex-direction: row;
+  align-items: row;
+  flex:1 1;
+  margin-left: 60px;
+}
+
+/*========================== stjärnor - ratings ===========================*/
+.star{
+  margin-left: 60px;
+  
+}
+
+/* baren som alla knappar ligger i */
+.icon-bar {
+  width:100%;
+  height:20px;
+  margin-left: 40px;
+}
+/* oncklick-funktionen */
+
+/*========================== search funktionen ===========================*/
+.Search {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  margin-left: 60px;
+  width:200px;
+  height: 30px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:#333333;
+  color: white;
+}
+
+/*========================== Description funktionen ===========================*/
+.Description {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  margin-left: 60px;
+  width:200px;
+  height:100px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:#333333;
+  color: white;
+  rows: 5;
+
+}
+
+

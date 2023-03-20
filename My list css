@@ -1,0 +1,57 @@
+.Mylist {
+  position: top;
+  background-color: #000000;
+}
+.Body {
+  /**display: auto; **/
+  justify-content: center;
+}
+
+.App-header {
+  min-height: 10vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(7px + 3vmin);
+  color:red;
+  font-weight: bold; 
+  position: top;
+  padding-top: 20px;
+  /*padding-bottom: 2px;*/
+}
+.App-header h1 {
+  position: top;
+  text-align: center;
+}
+.container {
+  display:flex;
+  flex-direction: column;
+  /**column-gap: 10px;
+  row-gap: 10px; **/
+  justify-content: center;
+  /**align-content: space-between;**/
+  align-items: center;
+}
+.container >div {
+  /**flex-basis: 200px;**/
+  background-color: rgb(50, 49, 49);
+  filter: blur(0.6px);
+  padding: 18px;
+  margin: 2px; 
+  border-radius: 25px;
+  width: 300px;
+  height: 180px; 
+} 
+
+
+
+
+ 
+  
+
+  
+
+
+
+
+

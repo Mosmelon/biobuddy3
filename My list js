@@ -1,0 +1,26 @@
+
+import './App.css';
+
+function App() {
+  return (
+    <div className="Mylist">
+
+      <header className="App-header">
+      <h1>MY LIST:</h1>
+      </header>
+      
+      <div className="container">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div><div></div><div></div><div></div>
+      
+      </div>
+      
+    </div>
+    /*loop för att addera div vid klick*/
+    /*movie name*/
+  );
+}
+
+export default App;

@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Projekt-bb/static/css/main.ca878a4f.chunk.css",
+    "main.js": "/Projekt-bb/static/js/main.a381e13a.chunk.js",
+    "main.js.map": "/Projekt-bb/static/js/main.a381e13a.chunk.js.map",
+    "runtime-main.js": "/Projekt-bb/static/js/runtime-main.431f0ec4.js",
+    "runtime-main.js.map": "/Projekt-bb/static/js/runtime-main.431f0ec4.js.map",
+    "static/js/2.3fbaca13.chunk.js": "/Projekt-bb/static/js/2.3fbaca13.chunk.js",
+    "static/js/2.3fbaca13.chunk.js.map": "/Projekt-bb/static/js/2.3fbaca13.chunk.js.map",
+    "static/js/3.53fb407b.chunk.js": "/Projekt-bb/static/js/3.53fb407b.chunk.js",
+    "static/js/3.53fb407b.chunk.js.map": "/Projekt-bb/static/js/3.53fb407b.chunk.js.map",
+    "index.html": "/Projekt-bb/index.html",
+    "static/css/main.ca878a4f.chunk.css.map": "/Projekt-bb/static/css/main.ca878a4f.chunk.css.map",
+    "static/js/2.3fbaca13.chunk.js.LICENSE.txt": "/Projekt-bb/static/js/2.3fbaca13.chunk.js.LICENSE.txt",
+    "static/media/Logga.cc5f396b.png": "/Projekt-bb/static/media/Logga.cc5f396b.png",
+    "static/media/logo.6ce24c58.svg": "/Projekt-bb/static/media/logo.6ce24c58.svg",
+    "static/media/mylist.3a28bf92.png": "/Projekt-bb/static/media/mylist.3a28bf92.png",
+    "static/media/star.2d8c5677.png": "/Projekt-bb/static/media/star.2d8c5677.png",
+    "static/media/tmdb.d59a5253.png": "/Projekt-bb/static/media/tmdb.d59a5253.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.431f0ec4.js",
+    "static/js/2.3fbaca13.chunk.js",
+    "static/css/main.ca878a4f.chunk.css",
+    "static/js/main.a381e13a.chunk.js"
+  ]
+}
